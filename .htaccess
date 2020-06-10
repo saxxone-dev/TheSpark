@@ -1,0 +1,29 @@
+#DirectoryIndex disabled
+
+
+#RewriteEngine On
+#RewriteRule ^$ http://127.0.0.1:3000/ [P,L]
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)$ http://127.0.0.1:3000/$1 [P,L]
+
+
+
+#turn on url rewriting 
+RewriteEngine on
+
+#Force https
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/home/$1 [R,L]
+
+#remove the need for .php extension 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
+
+
+
+Header set Referrer-Policy "origin"
+Header set Access-Control-Allow-Origin "*"
+
+

@@ -1,0 +1,38 @@
+[24-May-2020 23:20:50 UTC] PHP Warning:  include(../includes/login-modal.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/index.php on line 20
+[24-May-2020 23:20:50 UTC] PHP Warning:  include(../includes/login-modal.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/index.php on line 20
+[24-May-2020 23:20:50 UTC] PHP Warning:  include(): Failed opening '../includes/login-modal.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/index.php on line 20
+[01-Jun-2020 08:10:37 UTC] PHP Warning:  include_once(../magazine-connection.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/index.php on line 278
+[01-Jun-2020 08:10:37 UTC] PHP Warning:  include_once(): Failed opening '../magazine-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/index.php on line 278
+[01-Jun-2020 08:10:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/index.php on line 281
+[01-Jun-2020 08:10:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/index.php on line 293
+[01-Jun-2020 08:10:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/index.php on line 296
+[01-Jun-2020 08:11:58 UTC] PHP Warning:  include_once(./magazine-connection.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/index.php on line 278
+[01-Jun-2020 08:11:58 UTC] PHP Warning:  include_once(): Failed opening './magazine-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/index.php on line 278
+[01-Jun-2020 08:11:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/index.php on line 281
+[01-Jun-2020 08:11:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/index.php on line 293
+[01-Jun-2020 08:11:58 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/index.php on line 296
+[06-Jun-2020 12:11:27 UTC] PHP Warning:  include_once(../magazine-connection.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:11:27 UTC] PHP Warning:  include_once(): Failed opening '../magazine-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:11:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 6
+[06-Jun-2020 12:11:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 18
+[06-Jun-2020 12:11:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 21
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  include_once(../magazine-connection.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  include_once(): Failed opening '../magazine-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 6
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 18
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 21
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  include_once(../magazine-connection.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  include_once(): Failed opening '../magazine-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 6
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 18
+[06-Jun-2020 12:11:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 21
+[06-Jun-2020 12:12:19 UTC] PHP Warning:  include_once(../magazine-connection.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:12:19 UTC] PHP Warning:  include_once(): Failed opening '../magazine-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:12:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 6
+[06-Jun-2020 12:12:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 18
+[06-Jun-2020 12:12:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 21
+[06-Jun-2020 12:13:41 UTC] PHP Warning:  include_once(../magazine-connection.php): failed to open stream: No such file or directory in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:13:41 UTC] PHP Warning:  include_once(): Failed opening '../magazine-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 2
+[06-Jun-2020 12:13:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 6
+[06-Jun-2020 12:13:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 18
+[06-Jun-2020 12:13:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/thespar3/public_html/home/magazine/read/load-mag-read.php on line 21
