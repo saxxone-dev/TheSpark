@@ -180,15 +180,12 @@ include 'includes/header-actions.php'
                             style="font-family: 'Bebas Neue', Helvetica, TeXGyreHeros, Arial, sans-serif !important; line-height: 0.9">
                             IGNITE <br
                                     class="d-md-none"/> THE NEXT PHASE <br/>
-                            OF YOUR <br class=""/> JOURNEY</h1>
+                            OF YOUR <br class="d-md-none"/> JOURNEY</h1>
                         <p class="text-22 text-white px-2 px-lg-5" style="line-height: 1.3">Gain access to the
-                            Magazines, Training Programs, Resources and Legacies you need to achieve Iconic success</p>
+                            Magazines, Training Programs, Resources and <br class="d-md-block d-none"/> Legacies you need to achieve Iconic success</p>
                     </div>
                 </div>
-                <div class="bubble d-flex w-100 justify-content-center justify-content-md-end">
-                    <a href="https://masterclass.thesparkng.com/" id="bubble" class="animated slideInRight"><img
-                                src="./assets/images/bubble.webp" alt=""></a>
-                </div>
+
             </div>
             <div class="jumbotron home-jumbo text-white text-center d-flex h-100 align-items-center">
                 <div class="m-auto">
@@ -197,16 +194,16 @@ include 'includes/header-actions.php'
                             style="font-family: 'Bebas Neue', Helvetica, TeXGyreHeros, Arial, sans-serif !important; line-height: 0.9">
                             IGNITE <br
                                     class="d-md-none"/> THE NEXT PHASE <br/>
-                            OF YOUR <br class=""/> JOURNEY</h1>
+                            OF YOUR <br class="d-md-none"/> JOURNEY</h1>
                         <p class="text-22 text-white px-2 px-lg-5" style="line-height: 1.3">Gain access to the
-                            Magazines, Training Programs, Resources and Legacies you need to achieve Iconic success</p>
+                            Magazines, Training Programs, Resources and <br class="d-md-block d-none"/> Legacies you need to achieve Iconic success</p>
                     </div>
                 </div>
-                <div class="bubble d-flex w-100 justify-content-center justify-content-md-end">
-                    <a href="https://masterclass.thesparkng.com/" id="bubble" class="animated slideInRight"><img
-                                src="./assets/images/bubble.webp" alt=""></a>
-                </div>
             </div>
+        </div>
+        <div class="bubble d-flex w-100 justify-content-center justify-content-md-end">
+            <a href="https://masterclass.thesparkng.com/" id="bubble" class="animated slideInRight"><img
+                        src="./assets/images/bubble.png" alt=""></a>
         </div>
     </div>
     <div class=" pt-4 bg-white-grad">

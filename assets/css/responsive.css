@@ -72,10 +72,11 @@ describe general responsive styling
     .bubble {
         position: absolute;
         bottom: -25px;
+
     }
     .bubble img {
-        width: 160px !important;
-        margin-right: 0;
+        width: 246px !important;
+        margin-right: -77px;
     }
     .hover-box {
         height: 250px !important;
@@ -300,7 +301,9 @@ describe general responsive styling
     .vc-item img {
         width: 90px;
     }
-
+    .bubble{
+        right: -100px;
+    }
     .vc-item .active {
         width: 120px;
     }
